@@ -1,0 +1,6 @@
+Create TABLE regscust (
+    -> acno int,
+    -> custname varchar(20),
+    -> branchname varchar(20),
+    -> phno int
+    -> );
