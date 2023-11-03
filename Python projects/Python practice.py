@@ -1,4 +1,4 @@
-'''
+
 import pyttsx3 #pip install pyttsx3
 import speech_recognition as sr #pip install speechRecognition
 import datetime
@@ -29,7 +29,7 @@ def wishMe():
     else:
         speak("Good Evening!")  
 
-    speak("I am Jarvis Sir. Please tell me how may I help you")       
+    speak("Mai Jarvis aap ki kya madad kar sakta hu")       
 
 def takeCommand():
     #It takes microphone input from the user and returns string output
@@ -110,4 +110,4 @@ if __name__ == "__main__":
                 speak("Sorry my friend harry bhai. I am not able to send this email")    
         else:
             print("No query matched")
-'''
+

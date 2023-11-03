@@ -1,7 +1,7 @@
 class arr {
     //1-D array
     public static void main(String[] args) {
-        /* 
+         
         int[] marks=new int [5];
         marks[0]=98;
         marks[1]=99;
@@ -14,7 +14,7 @@ class arr {
         for(int ele:marks){
             System.out.println(ele);
        
-        */
+        
         //2-D arrays
         int[][] flats=new int[2][3];
         flats[0][0]=101;
@@ -36,4 +36,5 @@ class arr {
     }
      }
     
+}
 }
