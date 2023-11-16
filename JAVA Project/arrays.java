@@ -1,4 +1,4 @@
-class arr {
+public class arrays {
     //1-D array
     public static void main(String[] args) {
          

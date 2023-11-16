@@ -52,7 +52,7 @@ class game{
 
 
 
-class Main {
+public class guess_the_no_game {
     public static void main(String[] args) {
         game g=new game();
         boolean b= false;
