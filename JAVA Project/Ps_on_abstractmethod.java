@@ -15,7 +15,7 @@ class fountainpen extends pen{
     }
 
 }
-public class Ps_on_abstractmethod {
+class Ps_on_abstractmethod {
     public static void main(String[] args) {
         fountainpen obj =new fountainpen();
         obj.changenib();
